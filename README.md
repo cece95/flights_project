@@ -77,4 +77,6 @@ Install the dependencies with
 `npm install`
 
 then run with
-`npm run`
+`npm start`
+
+The client will run on port 3000
